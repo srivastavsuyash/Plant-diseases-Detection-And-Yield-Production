@@ -77,8 +77,8 @@ Datasets were preprocessed using image resizing, normalization, and data cleanin
 ---
 
 ## 👨‍💻 Author
-SARVASHAKTI SINGH  
-B.Tech -CSE(AIML)  
+SUYASH SRIVASTAV  
+B.Tech -CSE 
 
 ---
 
